@@ -5,7 +5,7 @@
 ## About this Project
 - This Project is build by Using Html and CSS .                
 - This is a home page of Monstera .
-- i use most of flexbox in this project and also it's  mobile responsive.  
+  
 
 ---
 
